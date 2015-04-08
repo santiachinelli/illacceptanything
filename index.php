@@ -18,7 +18,8 @@
 </head>
 <body>
 <?php
-echo 'fart'; 
+echo 'fart';
+echo 'I can make my own decisions, thank you.'
 ?>
 </body>
 </html>
